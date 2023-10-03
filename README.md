@@ -15,5 +15,3 @@ I've created this repository not only as a personal playground for my CNN endeav
 I welcome contributions, suggestions, and feedback from the community. If you come across any interesting insights, potential improvements, or just want to discuss CNNs and computer vision, please feel free to reach out. Together, we can continue to explore the exciting world of convolutional neural networks.
 
 Thank you for visiting my repository, and I hope you find it both informative and inspiring.
-
-Happy coding!
