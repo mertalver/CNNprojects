@@ -1,0 +1,1 @@
+Due to GitHub's restriction on files larger than 100 MB, the dataset could not be uploaded. You can access the dataset at the following link: https://www.kaggle.com/datasets/jangedoo/utkface-new/data
